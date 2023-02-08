@@ -1,0 +1,22 @@
+body {
+    background-image:url('pink.webp');
+    /* padding: 0 24px; */
+    color:black; /* Change my color to yellow */
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size:cover; 
+    background-repeat: no-repeat;
+    font-family: 'Pacifico', cursive;
+    font-size: x-large;
+  }
+
+  .hell
+  {
+    size: 30%;
+    background-color: white;
+    padding:5%;
+    
+  }
